@@ -1,4 +1,4 @@
-package com.journerist.exampleForCleanArchitecture.manager;
+package com.journerist.exampleForCleanArchitecture.gateway;
 
 import com.journerist.exampleForCleanArchitecture.entity.Player;
 import com.journerist.exampleForCleanArchitecture.hibernate.HibernateSessionManager;

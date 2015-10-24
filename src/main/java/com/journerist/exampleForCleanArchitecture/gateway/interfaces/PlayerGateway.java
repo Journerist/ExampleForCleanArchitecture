@@ -1,4 +1,4 @@
-package com.journerist.exampleForCleanArchitecture.manager.interfaces;
+package com.journerist.exampleForCleanArchitecture.gateway.interfaces;
 
 import com.journerist.exampleForCleanArchitecture.entity.Player;
 

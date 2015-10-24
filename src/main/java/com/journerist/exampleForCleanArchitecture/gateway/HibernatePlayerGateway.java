@@ -1,8 +1,8 @@
-package com.journerist.exampleForCleanArchitecture.manager;
+package com.journerist.exampleForCleanArchitecture.gateway;
 
 import com.journerist.exampleForCleanArchitecture.entity.Player;
 import com.journerist.exampleForCleanArchitecture.hibernate.HibernateSessionManager;
-import com.journerist.exampleForCleanArchitecture.manager.interfaces.PlayerGateway;
+import com.journerist.exampleForCleanArchitecture.gateway.interfaces.PlayerGateway;
 import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
@@ -11,7 +11,7 @@ import org.hibernate.criterion.Restrictions;
 import java.util.List;
 
 /**
- * User operation manager for fetching data
+ * User operation gateway for fetching data
  */
 public class HibernatePlayerGateway implements PlayerGateway {
 
