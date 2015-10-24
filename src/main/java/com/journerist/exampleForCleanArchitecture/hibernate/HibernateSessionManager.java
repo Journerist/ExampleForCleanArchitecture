@@ -1,4 +1,4 @@
-package com.journerist.fullstacktdd.hibernate;
+package com.journerist.exampleForCleanArchitecture.hibernate;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

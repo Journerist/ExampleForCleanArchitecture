@@ -1,6 +1,6 @@
-package com.journerist.fullstacktdd.vo;
+package com.journerist.exampleForCleanArchitecture.vo;
 
-import com.journerist.fullstacktdd.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
 
 public class PlayerVO {
     public String username;

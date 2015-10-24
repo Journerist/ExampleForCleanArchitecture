@@ -1,7 +1,7 @@
-package com.journerist.fullstacktdd.hibernate.entity;
+package com.journerist.exampleForCleanArchitecture.hibernate.entity;
 
 
-import com.journerist.fullstacktdd.vo.PlayerVO;
+import com.journerist.exampleForCleanArchitecture.vo.PlayerVO;
 
 import java.io.Serializable;
 import java.util.Date;

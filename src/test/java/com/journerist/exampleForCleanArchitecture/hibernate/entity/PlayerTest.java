@@ -1,4 +1,4 @@
-package com.journerist.fullstacktdd.hibernate.entity;
+package com.journerist.exampleForCleanArchitecture.hibernate.entity;
 
 import org.junit.Test;
 

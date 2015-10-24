@@ -1,8 +1,8 @@
-package com.journerist.fullstacktdd.manager;
+package com.journerist.exampleForCleanArchitecture.manager;
 
-import com.journerist.fullstacktdd.hibernate.entity.Player;
-import com.journerist.fullstacktdd.hibernate.HibernateSessionManager;
-import com.journerist.fullstacktdd.manager.interfaces.PlayerGateway;
+import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.hibernate.HibernateSessionManager;
+import com.journerist.exampleForCleanArchitecture.manager.interfaces.PlayerGateway;
 import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.Transaction;

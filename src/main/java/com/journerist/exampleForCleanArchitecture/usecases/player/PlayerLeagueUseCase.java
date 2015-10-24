@@ -1,7 +1,7 @@
-package com.journerist.fullstacktdd.usecases.player;
+package com.journerist.exampleForCleanArchitecture.usecases.player;
 
-import com.journerist.fullstacktdd.hibernate.entity.Player;
-import com.journerist.fullstacktdd.manager.interfaces.PlayerGateway;
+import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.manager.interfaces.PlayerGateway;
 
 import java.util.List;
 

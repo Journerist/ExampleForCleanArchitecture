@@ -1,10 +1,10 @@
-package com.journerist.fullstacktdd;
+package com.journerist.exampleForCleanArchitecture;
 
-import com.journerist.fullstacktdd.hibernate.entity.*;
+import com.journerist.exampleForCleanArchitecture.hibernate.entity.*;
 
 import java.util.List;
 
-import com.journerist.fullstacktdd.hibernate.HibernateSessionManager;
+import com.journerist.exampleForCleanArchitecture.hibernate.HibernateSessionManager;
 import org.hibernate.Criteria;
 import org.hibernate.Session;
 
