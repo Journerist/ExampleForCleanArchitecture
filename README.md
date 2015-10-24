@@ -1,5 +1,5 @@
 # ExampleForCleanArchitecture
-This is an example how well structured application could be structured. The application contains perisitent data access, business logic and a public data rest api. Every layer abstracts complexity and is tested against its boundaries.
+This is an example how extandable and testable application could be structured. The application contains perisitent data access, business logic and a public data rest api. Every layer abstracts complexity and is tested against its boundaries.
 
 ## class diagram
 
