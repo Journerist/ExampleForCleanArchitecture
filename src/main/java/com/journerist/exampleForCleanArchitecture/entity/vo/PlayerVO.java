@@ -1,6 +1,6 @@
-package com.journerist.exampleForCleanArchitecture.vo;
+package com.journerist.exampleForCleanArchitecture.entity.vo;
 
-import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.entity.Player;
 
 public class PlayerVO {
     public String username;

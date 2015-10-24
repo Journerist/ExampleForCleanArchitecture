@@ -1,6 +1,6 @@
 package com.journerist.exampleForCleanArchitecture.usecases.player;
 
-import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.entity.Player;
 import com.journerist.exampleForCleanArchitecture.manager.interfaces.PlayerGateway;
 
 import java.util.List;

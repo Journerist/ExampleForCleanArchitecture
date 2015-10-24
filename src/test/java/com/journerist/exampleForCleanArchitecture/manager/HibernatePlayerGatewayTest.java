@@ -1,6 +1,6 @@
 package com.journerist.exampleForCleanArchitecture.manager;
 
-import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.entity.Player;
 import com.journerist.exampleForCleanArchitecture.hibernate.HibernateSessionManager;
 import org.hibernate.Session;
 import org.hibernate.Transaction;

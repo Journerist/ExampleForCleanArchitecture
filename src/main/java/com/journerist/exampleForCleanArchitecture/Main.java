@@ -1,6 +1,6 @@
 package com.journerist.exampleForCleanArchitecture;
 
-import com.journerist.exampleForCleanArchitecture.hibernate.entity.*;
+import com.journerist.exampleForCleanArchitecture.entity.*;
 
 import java.util.List;
 

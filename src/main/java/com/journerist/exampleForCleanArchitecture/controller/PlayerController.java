@@ -1,8 +1,8 @@
 package com.journerist.exampleForCleanArchitecture.controller;
 
-import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.entity.Player;
 import com.journerist.exampleForCleanArchitecture.manager.HibernatePlayerGateway;
-import com.journerist.exampleForCleanArchitecture.vo.PlayerVO;
+import com.journerist.exampleForCleanArchitecture.entity.vo.PlayerVO;
 
 public class PlayerController {
 

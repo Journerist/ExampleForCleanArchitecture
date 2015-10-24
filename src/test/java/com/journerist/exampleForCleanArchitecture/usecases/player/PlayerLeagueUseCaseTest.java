@@ -1,6 +1,6 @@
 package com.journerist.exampleForCleanArchitecture.usecases.player;
 
-import com.journerist.exampleForCleanArchitecture.hibernate.entity.Player;
+import com.journerist.exampleForCleanArchitecture.entity.Player;
 import com.journerist.exampleForCleanArchitecture.usecases.player.stub.InMemoryPlayerGateway;
 import org.junit.BeforeClass;
 import org.junit.Test;

@@ -1,7 +1,7 @@
-package com.journerist.exampleForCleanArchitecture.hibernate.entity;
+package com.journerist.exampleForCleanArchitecture.entity;
 
 
-import com.journerist.exampleForCleanArchitecture.vo.PlayerVO;
+import com.journerist.exampleForCleanArchitecture.entity.vo.PlayerVO;
 
 import java.io.Serializable;
 import java.util.Date;

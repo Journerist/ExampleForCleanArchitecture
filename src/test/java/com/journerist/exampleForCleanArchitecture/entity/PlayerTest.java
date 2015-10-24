@@ -1,4 +1,4 @@
-package com.journerist.exampleForCleanArchitecture.hibernate.entity;
+package com.journerist.exampleForCleanArchitecture.entity;
 
 import org.junit.Test;
 

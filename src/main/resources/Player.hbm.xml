@@ -3,7 +3,7 @@
         "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
 
 <hibernate-mapping>
-    <class name="com.journerist.exampleForCleanArchitecture.hibernate.entity.Player" table="PLAYER">
+    <class name="com.journerist.exampleForCleanArchitecture.entity.Player" table="PLAYER">
         <id name="playerId" column="PLAYER_ID" >
             <generator class="native"/>
         </id>
